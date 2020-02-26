@@ -21,7 +21,10 @@ function generateNumByPercentage(arr, prcnt) {
         }
     }
     return weightedArr[(Math.random() * (weightedArr.length - 1)).toFixed(0)];
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6b5d8f8831465079d9191ba66aac7a6f11047a27
 }
 
 for (i = 0; i < 10; i++) {
