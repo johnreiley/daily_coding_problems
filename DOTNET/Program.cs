@@ -7,7 +7,9 @@ namespace DOTNET
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine(FindSmallestNumNotSubset(new int[] {2, 3, 4, 10}));
+            int[] array = { 2, 3, 6, 4, 10, 7, 18, 20, 43, 11, 7, 90, 5, 8, 1 };
+
+            System.Console.WriteLine(DCP20200322.AngleBetweenClockHands("00:59"));
         }
 
 
@@ -31,5 +33,10 @@ namespace DOTNET
             }
             return ++allSum;
         }
+
+
+        /*
+        
+        */
     }
 }

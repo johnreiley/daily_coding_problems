@@ -9,3 +9,15 @@ C:\Users\johnlreiley\Random\daily_coding_problems\DOTNET\obj\Debug\netcoreapp3.1
 C:\Users\johnlreiley\Random\daily_coding_problems\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.AssemblyInfo.cs
 C:\Users\johnlreiley\Random\daily_coding_problems\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.dll
 C:\Users\johnlreiley\Random\daily_coding_problems\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.pdb
+C:\Users\super\OneDrive - BYU-Idaho\College\Personal Projects\daily_coding_problems\DOTNET\bin\Debug\netcoreapp3.1\DOTNET.exe
+C:\Users\super\OneDrive - BYU-Idaho\College\Personal Projects\daily_coding_problems\DOTNET\bin\Debug\netcoreapp3.1\DOTNET.deps.json
+C:\Users\super\OneDrive - BYU-Idaho\College\Personal Projects\daily_coding_problems\DOTNET\bin\Debug\netcoreapp3.1\DOTNET.runtimeconfig.json
+C:\Users\super\OneDrive - BYU-Idaho\College\Personal Projects\daily_coding_problems\DOTNET\bin\Debug\netcoreapp3.1\DOTNET.runtimeconfig.dev.json
+C:\Users\super\OneDrive - BYU-Idaho\College\Personal Projects\daily_coding_problems\DOTNET\bin\Debug\netcoreapp3.1\DOTNET.dll
+C:\Users\super\OneDrive - BYU-Idaho\College\Personal Projects\daily_coding_problems\DOTNET\bin\Debug\netcoreapp3.1\DOTNET.pdb
+C:\Users\super\OneDrive - BYU-Idaho\College\Personal Projects\daily_coding_problems\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.csprojAssemblyReference.cache
+C:\Users\super\OneDrive - BYU-Idaho\College\Personal Projects\daily_coding_problems\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive - BYU-Idaho\College\Personal Projects\daily_coding_problems\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.AssemblyInfo.cs
+C:\Users\super\OneDrive - BYU-Idaho\College\Personal Projects\daily_coding_problems\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.dll
+C:\Users\super\OneDrive - BYU-Idaho\College\Personal Projects\daily_coding_problems\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.pdb
+C:\Users\super\OneDrive - BYU-Idaho\College\Personal Projects\daily_coding_problems\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.genruntimeconfig.cache

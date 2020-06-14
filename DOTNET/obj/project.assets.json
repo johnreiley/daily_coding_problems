@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\johnlreiley\\.nuget\\packages\\": {},
+    "C:\\Users\\super\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnlreiley\\Random\\daily_coding_problems\\DOTNET\\DOTNET.csproj",
+      "projectUniqueName": "C:\\Users\\super\\OneDrive - BYU-Idaho\\College\\Personal Projects\\daily_coding_problems\\DOTNET\\DOTNET.csproj",
       "projectName": "DOTNET",
-      "projectPath": "C:\\Users\\johnlreiley\\Random\\daily_coding_problems\\DOTNET\\DOTNET.csproj",
-      "packagesPath": "C:\\Users\\johnlreiley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnlreiley\\Random\\daily_coding_problems\\DOTNET\\obj\\",
+      "projectPath": "C:\\Users\\super\\OneDrive - BYU-Idaho\\College\\Personal Projects\\daily_coding_problems\\DOTNET\\DOTNET.csproj",
+      "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\super\\OneDrive - BYU-Idaho\\College\\Personal Projects\\daily_coding_problems\\DOTNET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\johnlreiley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +32,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\idrive\\tech\\nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
